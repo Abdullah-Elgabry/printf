@@ -6,8 +6,8 @@
  * @_end: the ending loc
  * @except: exception not take
  *
- * Return: will return num of bytes 
- * 
+ * Return: will return num of bytes
+ *
  */
 
 
@@ -26,9 +26,9 @@ int prt_range(char *_begin, char *_end, char *except)
 
 /**
  * _rev_fun - this func will rev the srt
- * 
+ *
  * @_ls: str
- * 
+ *
  * @params: struct
  *
  * Return: bytes
@@ -55,9 +55,9 @@ int _rev_fun(va_list _ls, params_t *params)
 
 /**
  * _13_row - this func will prints str in 13
- * 
+ *
  * @_ls: str
- * 
+ *
  * @params: struct
  *
  * Return: bytes will be printed

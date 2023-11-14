@@ -2,11 +2,11 @@
 
 /**
  * ret_precn - this fun return the prec str
- * 
+ *
  * @_ch_f: str
- * 
+ *
  * @params: the param struct
- * 
+ *
  * @_ls: the argument pointer
  *
  * Return: this will return a new ptr

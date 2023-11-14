@@ -26,7 +26,7 @@ int prt_ch(va_list _ls, params_t *params)
 
 /**
  * prt_int - this fun will prints int
- * 
+ *
  * @_ls: ptr
  * @params: struct
  *
@@ -49,9 +49,9 @@ int prt_int(va_list _ls, params_t *params)
 
 /**
  * prt_str - prints string
- * 
+ *
  * @_ls: argument pointer
- * 
+ *
  * @params: the param struct
  *
  * Return: number chars printed
@@ -93,9 +93,9 @@ int prt_str(va_list _ls, params_t *params)
 
 /**
  * print_percent - this fun will prints str
- * 
+ *
  * @_ls: ptr
- * 
+ *
  * @params: struct
  *
  * Return: char
@@ -113,7 +113,7 @@ int print_percent(va_list _ls, params_t *params)
  * print_S - custom format specf
  *
  * @_ls: argument pointer
- * 
+ *
  * @params: the param struct
  *
  * Return: number chars printed

@@ -3,7 +3,7 @@
 /**
  * check_spec - this a searcher fun
  * @s: string
- * 
+ *
  *
  * Return: bytes
  */
@@ -42,11 +42,11 @@ int (*check_spec(char *s))(va_list _ls, params_t *params)
 
 /**
  * ret_form - this fun check the format
- * 
+ *
  * @s: string format
- * 
+ *
  * @_ls: ptr
- * 
+ *
  * @params: struct
  *
  * Return: bytes
@@ -63,9 +63,9 @@ int ret_form(char *s, va_list _ls, params_t *params)
 
 /**
  * ret_fl - this is fun checks for flag fun
- * 
+ *
  * @s: str
- * 
+ *
  * @params: struct
  *
  * Return: flag
@@ -98,9 +98,9 @@ int ret_fl(char *s, params_t *params)
 
 /**
  * ret_mod - this fun will ret func
- * 
+ *
  * @s: str
- * 
+ *
  * @params: struct
  *
  * Return: mod
@@ -125,11 +125,11 @@ int ret_mod(char *s, params_t *params)
 
 /**
  * ret_wid - this fun will ret width
- * 
+ *
  * @s: str
- * 
+ *
  * @params: struct
- * 
+ *
  * @_ls: ptr
  *
  * Return: the n generated ptr
