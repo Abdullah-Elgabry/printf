@@ -4,7 +4,6 @@
 /**
  * _printf - function that will print str, int, etc..
  * @format: this is the format of the string will passed to func
- *
  * Return: integer
  */
 

@@ -4,7 +4,6 @@
 /**
  * put_ch - this func will print a str + /n
  * @str: str will be printed
- *
  * Return: it's a void func
  */
 
