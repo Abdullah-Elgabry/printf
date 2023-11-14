@@ -89,9 +89,7 @@ int bin_print(va_list _ls, params_t *params)
 }
 
 /**
- *
- * _oct_prt - this fun will prints oct numbers
- *
+ * _oct_prt - this fun will prints octal numbers
  * @_ls: ptr for arg
  *
  * @params: this is struct
